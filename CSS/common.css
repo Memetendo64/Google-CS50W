@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+label{
+  font-size:25px;
+}
+
+.appbar {
+  margin: 30px 10px;
+}
+.appbar label {
+  color: #d93025;
+  font-size: 20px;
+  margin: 50px 30px;
+}
+
+.separator-line {
+  border-bottom: solid 1px #d6d6d6;
+}
+
+/* Style for Im feeling lucky and Google Search buttons */
+.button2 {border-radius: 20px;width:370px; height:40px;}
+
+.search-bar {border-radius: 20px;width:370px; height:10px;}
